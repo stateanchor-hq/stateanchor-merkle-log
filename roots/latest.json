@@ -1,6 +1,6 @@
 {
-  "tree_size": 2,
-  "root_hash": "8b8f8859e4021e4d9ee48b7a41f21880de206f81b8f1de819c89f160bf66b020",
-  "computed_at": "2026-04-22T06:00:41.556Z",
+  "tree_size": 4,
+  "root_hash": "9a7fecb57c8fe4d2e733e18e2348b2e47a2c449c20f3b41af7f327d2f0069497",
+  "computed_at": "2026-04-24T02:00:29.569Z",
   "verify_cli": "npx stateanchor verify-gate-decision <sync_run_id>"
 }
